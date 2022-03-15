@@ -19,5 +19,5 @@ elif 0 <= temp and temp < 10:
 else:
       print("나가지 마세요")
       
-#for(반복문)
-      
+#for(반복문) for in
+
