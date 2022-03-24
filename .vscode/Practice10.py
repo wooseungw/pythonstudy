@@ -14,8 +14,10 @@ for num in range(1,51): #1~50 이라는 승객 수
         cnt += 1
     else: #cnt증가 x
         print("[ ]  {0}번째 손님 (소요시간: {1}분".format(num, time))
-    
-print("총 탑승객 수: {0}명".format(cnt))
+    if num == 50:
+        print("총 탑승객 수: {0}명".format(cnt))
+
+
         
 
         

@@ -15,5 +15,3 @@ print(studentsname)
 
 #퀴즈5
 #50명 승객 매칭, 승객별 소요시간 5~50분 난수로 결정, 5~15분 사이의 승객만 매칭하기 [o] n번째 손님 (소요시간: mm분), 총 탑승 승객 : n2분
-for passenger in range(1, 51):
-    print(passenger)

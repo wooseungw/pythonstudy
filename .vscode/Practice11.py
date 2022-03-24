@@ -1,5 +1,5 @@
 #함수, 전달갑과 반환값
-from calendar import c
+
 
 
 def open_account(): #함수 정의 def 함수명():
