@@ -38,32 +38,32 @@ print( (3>0) | (233> 2)) #둘중 하나만 참이면 true
 print ( 3 < 4 < 5 )#3가지 항 비교
 print("dgdd")
 
-number = 213 * 3123
-print(number)
-number -= 1
-print(number)
-number %= 3
-print(number)
+# number = 213 * 3123
+# print(number)
+# number -= 1
+# print(number)
+# number %= 3
+# print(number)
 
-print(abs(-2))
-print(pow(4, 2)) #제곱
-print(max(5, 12))#둘중 큰값
-print(min(5, 12))#둘중 작은값
-print(round(3.55555))#소숫점 버림
+# print(abs(-2))
+# print(pow(4, 2)) #제곱
+# print(max(5, 12))#둘중 큰값
+# print(min(5, 12))#둘중 작은값
+# print(round(3.55555))#소숫점 버림
 
-from math import * 
-print(floor(4.66))#내림
-print(ceil(3.451))#올림
-print(sqrt(25))#제곱근
+# from math import * 
+# print(floor(4.66))#내림
+# print(ceil(3.451))#올림
+# print(sqrt(25))#제곱근
 
-from random import * #랜덤함수 임포트
-print(random()) #랜덤한 난수 등장 0.0~1.0 미만의 임의값 생성
-print(random() * 10)
-print(int(random()*10)) #정수형은 int 사용 0~10이하의 임의값
-print(int(random()*10))
-print(int(random()*10))
-print(int(random()*10))
-print(int(random()*10))
-print(int(random()*10))
-print(int(random()*10 + 1))#1~10이하의 임의값
+# from random import * #랜덤함수 임포트
+# print(random()) #랜덤한 난수 등장 0.0~1.0 미만의 임의값 생성
+# print(random() * 10)
+# print(int(random()*10)) #정수형은 int 사용 0~10이하의 임의값
+# print(int(random()*10))
+# print(int(random()*10))
+# print(int(random()*10))
+# print(int(random()*10))
+# print(int(random()*10))
+# print(int(random()*10 + 1))#1~10이하의 임의값
 
