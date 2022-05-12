@@ -3,3 +3,4 @@ thisyear_test = list(test)
 thisyear_test[1] = '과제'
 print(test)
 print(thisyear_test)
+
